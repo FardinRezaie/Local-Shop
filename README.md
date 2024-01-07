@@ -1,0 +1,1 @@
+With this project, you can manage your shop that project  can add Customer and Item to inventory, you can Edit the information of customers and item inventories. and at least you can see the item of shop and you can buy anything that inventory has.
